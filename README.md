@@ -14,17 +14,7 @@ npx gatsby new my-carbon-docs https://github.com/ryanomackey/gatsby-carbon-docs-
 cd my-carbon-docs
 ```
 
-2. Install the dependencies
-
-```bash
-# With NPM:
-npm install
-
-# With Yarn:
-yarn
-```
-
-3. Start the development server:
+2. Start the development server:
 
 ```bash
 # With NPM:
