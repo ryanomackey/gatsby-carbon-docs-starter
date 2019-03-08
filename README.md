@@ -1,6 +1,4 @@
----
-title: Gatsby Carbon Docs Starter
----
+# Gatsby Carbon Docs Starter
 
 Gatsby theme for MDX-powered docs using the Carbon Design System
 
