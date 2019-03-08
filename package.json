@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "gatsby-carbon-docs-starter",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
-  "version": "0.1.0",
+  "description": "Gatsby docs starter with a Carbon theme",
+  "version": "1.0.0",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
@@ -14,6 +14,7 @@
   },
   "dependencies": {
     "gatsby": "^2.1.18",
+    "gatsby-theme-carbon-docs": "^1.0.1",
     "react": "^16.8.3",
     "react-dom": "^16.8.3"
   },
